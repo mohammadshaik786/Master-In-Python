@@ -1,0 +1,12 @@
+Create a python file
+Then open terminal and execute
+(1) Move into file path i.e cd path
+(2) Execute file i.e python3 filename.py
+(3) also if not given permission, then change and execute i.e chmod 755 filenm.py
+
+Similarly the python files can be called in other files by using terminal.
+
+Also u can execute 8th file as follows:
+(1)open terminal i.e cmd+space bar
+(2)change directory i.e cd /Users/mohammadshaik/Desktop/Mohammad/TCS/Python/Python_Complete_Course/Sec5ModulesPackageOOPinPython
+(3)execute i.e python3 8Understandingmainsyntax.py

@@ -1,0 +1,37 @@
+Github link : https://github.com/imtiazahmad007/PythonCourse
+
+Interpreter which makes computer to understand human language(code) and it converts into 1 & 0(machine code) line by line where as compiler does the entire source code into machine code.
+
+To print, we can use either '' or ""
+
+To print the string having integer variable, we need to convert integer to string by using function - str(varname)
+To find the datatype of variable, we can use function - type(varname)
+
+Index & Slicing
+Basic String Methods : .upper(),.lower(),
+.capitalize() -> It converts first letter of sentence into Upper case.
+.isdigit() -> prints boolean val (checks only number in var and prints True or False)
+.isalnum() -> checks only number & alphabets in var
+.startswith()
+.endswith()
+etc..
+
+Formatting strings using Format Method:
+print("My First Name is {0}, Last Name is {1} and Middle Name is {2}".format('Mohammad','Shaikh','Suleiman'))
+------------------
+Strings are immutable(it cannot be changed)
+It is not possible to modify with index letter. Instead we can create brand new string i.e
+
+name = 'Mohammad Shaik'
+# name[9:] = 'Sulaiman'
+name = name[0:8] + ' Sulaiman'
+print(name)
+---------------------
+
+Method is associated to class where as Function is not associated to class.
+
+The Method is a function which we use in class for invoking and it is a object oriented concept.
+A method is a block of code which only runs when it is called. You can pass data, known as parameters, into a method.
+Methods are used to perform certain actions, and they are also known as functions.
+
+
