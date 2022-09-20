@@ -38,6 +38,6 @@ Methods are used to perform certain actions, and they are also known as function
 Note: GitHub
 
 Created a new repo in github
-Then added github repo to project
+Then created a git repo to the existance project(svn) or you can add github repo url to project
 then commit to svn
-finally push to git
+finally push to git.
